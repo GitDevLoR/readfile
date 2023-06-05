@@ -1,4 +1,4 @@
-package com.example.documentcounter;
+package com.example.documentcounter.services;
 
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.Parameter;

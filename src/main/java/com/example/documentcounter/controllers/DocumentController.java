@@ -1,5 +1,6 @@
-package com.example.documentcounter;
+package com.example.documentcounter.controllers;
 
+import com.example.documentcounter.services.DocumentService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.Parameter;
 import io.swagger.v3.oas.annotations.media.Content;

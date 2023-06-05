@@ -1,5 +1,6 @@
 package com.example.documentcounter;
 
+import com.example.documentcounter.services.DocumentService;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.boot.test.mock.mockito.MockBean;
